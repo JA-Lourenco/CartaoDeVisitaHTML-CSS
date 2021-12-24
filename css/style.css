@@ -1,0 +1,77 @@
+body{
+    background-color: lightgrey;
+}
+
+h1{
+    font-style: italic;
+    margin-left: 6%;
+    margin-top: 12%;
+}
+
+.card{
+    background: url(../assets/backcard.png) no-repeat;
+    width: 500px;
+    height: 300px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 10%;
+    padding: 1px 20px;
+    color: rgb(12, 198, 223);
+    font-family: cardFont;
+}
+@font-face {
+    font-family: cardFont;
+    src: url(../fonts/ElMessiri-SemiBold.ttf);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(12, 198, 223);
+    font-style: italic;
+}
+
+.lkd{
+   list-style-image: url(../assets/lkd.ico);
+
+}
+
+.insta{
+    list-style-image: url(../assets/insta.ico);
+}
+
+.tt{
+    list-style-image: url(../assets/tt.ico);
+}
+
+.yt{
+    list-style-image: url(../assets/yt.ico);
+}
+
+.lkd:hover{
+    color: white;
+    text-shadow: 1px 1px rgb(12, 111, 223);
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.insta:hover{
+    color: white;
+    text-shadow: 1px 1px tomato;
+    text-decoration: underline;
+    font-size: larger;
+}
+
+.tt:hover{
+    color: white;
+    text-shadow: 1px 1px lightskyblue;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.yt:hover{
+    color: white;
+    text-shadow: 1px 1px firebrick;
+    font-size: larger;
+    text-decoration: underline;
+}
+
