@@ -2,9 +2,11 @@ Cartão de visita
 
 HTML5 e CSS3
 
-Simples e interativo;
+1º projeto do curso Dev Web Full Stack - ProgramadorBR
 
-Possível ser direcionado aos links das redes;
+Simples e interativo
+
+Possível ser direcionado aos links das redes
 
 Ícones feitos de forma manual: https://www.favicon.cc/
 
